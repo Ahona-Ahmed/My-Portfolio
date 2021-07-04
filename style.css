@@ -37,7 +37,7 @@ section{
 .check-button{
     text-decoration: none;
     border-radius: 7%;
-    background-image: linear-gradient(pink,rgb(100, 95, 84));
+    background-image: linear-gradient(pink,rgb(15, 235, 70));
     font-weight: 750;
     padding: 5px 8px;
     color: black ;
@@ -45,4 +45,26 @@ section{
 .top-banner{
     background-image: url(P-images/top-banner.png);
     background-repeat: no-repeat;
+}
+h2{
+    color:rgb(241, 14, 33);
+}
+.half-width2{
+    width: 50%;
+    
+    padding-top: 5%;
+    padding-right: 5%;
+    
+}
+.half-width2 img{
+    width: 80%;
+    height: 75%;
+    padding-right: 5%;
+    padding-left: 5% ;
+    padding-top: 5%;
+}
+.second-part{
+    background-image: url(P-images/dream-bg.png);
+    background-repeat: no-repeat;
+    background-position: right;
 }
